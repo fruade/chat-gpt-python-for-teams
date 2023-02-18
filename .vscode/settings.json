@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f76c3760-055d-433f-b401-dfeba7918058/AppServices/subscriptions/f76c3760-055d-433f-b401-dfeba7918058/resourceGroups/teams-chatgpt-resource-group/providers/Microsoft.Web/sites/openai-for-teams",
+    "appService.deploySubpath": "."
+}
